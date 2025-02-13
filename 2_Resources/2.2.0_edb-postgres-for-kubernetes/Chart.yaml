@@ -1,0 +1,23 @@
+apiVersion: v2
+appVersion: 1.25.0
+description: EDB Postgres for Kubernetes Helm Chart
+home: https://www.enterprisedb.com/products/postgresql-on-kubernetes-ha-clusters-k8s-containers-scalable
+icon: https://www.enterprisedb.com/themes/custom/edb_bootstrap_sass/edb-logo-disc-dark-2.svg
+keywords:
+- postgresql
+- postgres
+- database
+- edb
+- enterprisedb
+maintainers:
+- email: gabriele.bartolini@enterprisedb.com
+  name: gbartolini
+- email: jaime.silvela@enterprisedb.com
+  name: jsilvela
+- email: tao.li@enterprisedb.com
+  name: litaocdl
+name: edb-postgres-for-kubernetes
+sources:
+- https://github.com/EnterpriseDB/edb-postgres-for-kubernetes-charts
+type: application
+version: 0.23.0
