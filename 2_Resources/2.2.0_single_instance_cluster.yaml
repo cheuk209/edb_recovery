@@ -9,3 +9,5 @@ spec:
     size: 500Mi
   superuserSecret:
     name: single-instance-cluster-superuser
+
+    
